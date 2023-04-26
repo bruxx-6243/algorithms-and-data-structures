@@ -188,7 +188,7 @@ const fibonachi = (n) => {
 
 ## Быстрая сортировка(Quick Sort):
 
-![QuickSort](https://i.imgur.com/VIQNhPb.png)
+<img src="https://i.imgur.com/VIQNhPb.png" alt="Быстрая сортировка"/>
 
 ```javascript
 // Быстрая сортировка(Quick Sort)
@@ -237,7 +237,8 @@ function quickSort(array) {
 
 ## Поиск в ширину в графе(Breadth First Search):
 
-![BreadthFirstSearch](https://i.imgur.com/SxOxCXk.png)
+
+<img src="https://i.imgur.com/SxOxCXk.png" alt="Поиск в ширину в графе"/>
 
 ```javascript
 // Граф - это некая абстрактная структура данных, предствляющая собой множество
